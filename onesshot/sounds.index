@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "onesshot",
+    "files" : [
+        { "displayName" : "onesshot-ringtone"          , "fileName" : "onesshot-ringtone.wav" },
+        { "displayName" : "onesshot-messagetone"       , "fileName" : "onesshot-message.wav" },
+        { "displayName" : "onesshot-imtone"            , "fileName" : "onesshot-im.wav" },
+        { "displayName" : "onesshot-emailtone"         , "fileName" : "onesshot-email.wav" },
+        { "displayName" : "onesshot-calendar-alarm"    , "fileName" : "onesshot-calendar.wav" },
+        { "displayName" : "onesshot-clock-alarm"       , "fileName" : "onesshot-clock.wav" }
+    ]
+}
